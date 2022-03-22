@@ -13,7 +13,7 @@ A calculator with basic functionality made in Vanilla Javascript.
 ## Installation
 
 ```
- git clone https://github.com/martindocs/Simple-Calculator.git
+ git clone https://github.com/martindocs/simple-calculator.git
 ```
 
 ## Screenshot
