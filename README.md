@@ -18,7 +18,7 @@ A calculator with basic functionality made in Vanilla Javascript.
 
 ## Screenshot
 <p style="text-align:center; transform: scale(0.8,0.8)">
-    <img src="img/calculator.png" alt="simple-calculator" />
+    <img src="./assets/img/calculator.png" alt="simple-calculator" />
 </p>
 
 ## Contributing
